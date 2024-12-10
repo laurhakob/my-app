@@ -76,3 +76,16 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+
+ /* es petq a avelana heto */
+
+/* 
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::--webkit-scrollbar {
+  display: none;
+} */
