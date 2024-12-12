@@ -79,9 +79,6 @@ body {
 
 
 
- /* es petq a avelana heto */
-
-/* 
 .hide-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
@@ -89,4 +86,4 @@ body {
 
 .hide-scrollbar::--webkit-scrollbar {
   display: none;
-} */
+}
